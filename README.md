@@ -13,7 +13,7 @@ Hack Idea : The hack addressed two core recruitment problems :
 <li>Out of thousands of applications, comparing and picking the best is a messy job for the recruiters. How can this be simplified?</li>
 <li>A candidate has applied for a job and is still waiting or is getting many rejections and is not able to figure out why. What can they do? </li>
 </ol>
-
+<br>
 Our Solution :<br>
 <b>From the Recruiter Side</b>
 <ul>
@@ -21,7 +21,6 @@ Our Solution :<br>
 <li>Ranking the applicants based on the profiles of the employees of the current working team </li>
 <li>Ranking the applicants amongst themselves based on their profiles and the job description</li>
 </ul>
-<br>
 <b>From the Applicant Side</b>
 <ul>
 <li>Notifying the applicant with the status of their job application</li>
